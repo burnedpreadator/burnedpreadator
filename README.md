@@ -11,6 +11,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Sleep and play Games
 
+<img align="left" alt="vikram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=burnedpredator&show_icons=true&theme=radical" />
+
 ### Connect with me:
 
 [<img align="left" alt="burnedpreadator" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
