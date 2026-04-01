@@ -1,35 +1,62 @@
-### Hey, there I'm vikram [burnedpreadator][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Vikram 👋
 
-<br />
+💻 Backend Software Engineer with 2.5+ years of experience building scalable systems using **Java, Python, and JavaScript**.
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/burnedpreadator) &nbsp; [![Visitors](https://visitor-badge.glitch.me/badge?page_id=burnedpreadator.visitor-badge)](https://github.com/burnedpreadator) &nbsp; [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/burnedpreadator)
+🚗 Currently working on enterprise automotive diagnostics platforms at **KPIT**, focusing on backend systems, communication workflows, and production debugging.
 
-<br />
+⚙️ I enjoy building reliable backend services, automation systems, and data-driven applications.
 
-## I'm Student, Web Developer, Game Developer, and Graphic Designer !
-- 🔭 I’m currently working on a [Project][website_Projects]!
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Sleep and play Games
+---
 
-<br />
-<br />
+### 🔧 Tech Stack
 
-<img align="left" alt="vikram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=burnedpreadator&show_icons=true&theme=radical" />
+**Languages**
+Java | Python | JavaScript  
 
-<br><br><br><br><br><br><br><br><br>
+**Backend**
+REST APIs | Flask | FastAPI | Concurrency | Multithreading  
 
-### Connect with me:
+**DevOps**
+Docker | CI/CD | Jenkins | GitHub Actions  
 
-[<img align="left" alt="burnedpreadator" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="burnedpreadator | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="burnedpreadator | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="burnedpreadator | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+**Cloud**
+AWS (EC2, S3, IAM)
 
-<br />
+**Databases**
+PostgreSQL | MongoDB | Redis
 
-<p align="center"><br><a href="#hugs-projects-by-burnedpreadator--">:top:</a><br><sup><strong>Show <a href="https://github.com/burnedpreadatortab=repositories">some</a>&nbsp;:heart:&nbsp;by starring some of repositories!<strong></sup><br><br><a href="https://github.com/burnedpreadator/"><img src="https://img.shields.io/github/followers/burnedpreadator.svg?label=Follow%20@burnedpreadator&style=social"> </a><br></p>
+**Machine Learning**
+XGBoost | Feature Engineering | Data Normalization | Classification Models
 
-[website]: https://burnedpreadator.github.io/introfileWD/
-[twitter]: https://twitter.com/home
-[instagram]: https://www.instagram.com/vicky_chharia/
-[linkedin]: https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin
+---
+
+### 🚀 Notable Work
+
+- Built an **ML-based ticket classification system using XGBoost**
+- Led **CI/CD migration (Jenkins + SVN → Git)** improving build efficiency by **50%**
+- Developed **automation frameworks reducing manual QA effort by 90%**
+- Worked on **UDS-based automotive diagnostic systems for ECU communication**
+
+---
+
+### 📊 GitHub Stats
+
+![Vikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=burnedpreadator&show_icons=true&theme=radical)
+
+---
+
+### 🌱 Currently Exploring
+
+- Distributed Systems
+- Backend Architecture
+- System Design
+- Machine Learning Systems
+
+---
+
+### 🤝 Connect with me
+
+💼 LinkedIn  
+📧 Email  
+
+---
