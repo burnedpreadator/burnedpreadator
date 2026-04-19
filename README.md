@@ -37,13 +37,6 @@ XGBoost | Feature Engineering | Data Normalization | Classification Models
 - Developed **automation frameworks reducing manual QA effort by 90%**
 - Worked on **UDS-based automotive diagnostic systems for ECU communication**
 
----
-
-### 📊 GitHub Stats
-
-![Vikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=burnedpreadator&show_icons=true&theme=radical)
-
----
 
 ### 🌱 Currently Exploring
 
