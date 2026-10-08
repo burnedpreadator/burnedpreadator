@@ -1,6 +1,6 @@
 ### Hi there, I'm Vikram 👋
 
-💻 Backend Software Engineer with 2.5+ years of experience building scalable systems using **Java, Python, and JavaScript**.
+💻 Backend Software Engineer with 4+ years of experience building scalable systems using **Java, Python, and JavaScript**.
 
 🚗 Currently working on enterprise automotive diagnostics platforms at **KPIT**, focusing on backend systems, communication workflows, and production debugging.
 
